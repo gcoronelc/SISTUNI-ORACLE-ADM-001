@@ -1,6 +1,7 @@
 -- 03/03/2018
 
-Clave: 
-oracle10gadministracion1
-ORACLE10GADMINISTRACION1
-
+PUERTOA DE EQUIPOS
+-----------------------
+MARIA   172.17.2.216
+SADITH  172.17.2.225
+NOELIA  172.17.2.226
