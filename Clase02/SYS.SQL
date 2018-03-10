@@ -1,0 +1,22 @@
+
+SELECT * FROM X$VERSION;
+
+CREATE VIEW PRUEBA$VERSION AS
+SELECT * FROM X$VERSION;
+
+grant select on PRUEBA$VERSION to public;
+
+
+create OR REPLACE public synonym PRUEBA$VERSION for SYS.PRUEBA$VERSION;
+
+create OR REPLACE public synonym PANCHITO for SYS.PRUEBA$VERSION;
+
+SELECT * FROM V_$sga;
+
+SELECT * FROM V$sga;
+
+SELECT * FROM TS$;
+
+
+
+
