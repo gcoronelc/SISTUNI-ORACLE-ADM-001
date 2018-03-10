@@ -2,7 +2,7 @@
 
 ![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql.png)
 
-# PROGRAMADOR JAVA
+# ADMINISTRACIÓN DE BASE DE DATOS ORACLE
 
 - Lugar: SistemasUNI
 - Horario: SABADOS DE 3 A 6 PM
