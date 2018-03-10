@@ -1,14 +1,16 @@
-![ADMINISTRACION DE BD ORACLE](https://raw.githubusercontent.com/gcoronelc/SISTUNI_PROG_JAVA_015/master/prog015.jpg)
+![ADMINISTRACION DE BD ORACLE](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/ora-adm-001.jpg)
+
+![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql.png)
 
 # PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
-- Horario: MARTES y JUEVES DE 16 a 19 Horas
-- Inicio: 12-ENE-2017
+- Horario: SABADOS DE 3 A 6 PM
+- Inicio: 03-MAR-2018
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
-- Programa: http://www.sistemasuni.edu.pe/dmodulos/JavaveloperCC.html
-- Contenido: http://www.sistemasuni.edu.pe/dcursos/cursoPjava.html
-- Página: https://gcoronelc.github.io/SISTUNI_PROG_JAVA_015/
+- Programa: http://www.sistemasuni.edu.pe/index.php/area-de-base-de-datos
+- Contenido: http://www.sistemasuni.edu.pe/pdfs/modulos/modulo-db/admin-db-en-oracle/administracionbdoracle.pdf
+- Página: https://github.com/gcoronelc/SISTUNI-ORACLE-ADM-001
 - Código fuente: https://goo.gl/GRaOQg
 
 # DOCENTE
@@ -41,22 +43,6 @@
 - Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Código fuente: https://goo.gl/GRaOQg
-
-
-# RECURSOS DEL CURSO
-
-- Recursos: https://github.com/gcoronelc/recursos
-- Imagenes: https://github.com/gcoronelc/imagenes
-- Separata: http://gcoronelc.blogspot.pe/2016/06/separata-java-orientado-objetos.html
-- Lección 01: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
-- Lección 02: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
-- Lección 03: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
-- Lección 04: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
-- Lección 05: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
-- Lección 06: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-06-interfaces.html
-- Lección 07: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-07-arreglos.html
-- Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
-- Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 
 
 
