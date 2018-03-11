@@ -24,4 +24,7 @@ select * from all_views
 where view_name like 'PRUEBA%';
 
 
+update emp set sal = sal * 1.10;
 
+
+rollback;
