@@ -1,10 +1,5 @@
 ![ADMINISTRACION DE BD ORACLE](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/ora-adm-001.jpg)
 
-![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql2.jpg)
-
-![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql.png)
-
-
 
 # ADMINISTRACIÓN DE BASE DE DATOS ORACLE
 
@@ -59,6 +54,7 @@
 
 
 
+![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql2.jpg)
 
-
+![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql.png)
 
