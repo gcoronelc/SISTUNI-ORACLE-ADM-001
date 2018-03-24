@@ -23,30 +23,39 @@
 - Blog: www.desarrollasoftware.com
 - Correo: gcoronelc@gmail.com
 
+# LIBROS
+
+- Oracle 10g Adm.: http://gcoronelc.blogspot.pe/2018/03/oracle-database-1og-adm1.html
+- Oracle SQL y PLSQL: http://gcoronelc.blogspot.pe/2011/02/libros-de-oracle.html
+
+
 # RECURSOS RECOMENDADOS
 
+- Bases de Datos Ejemplo: https://github.com/gcoronelc/databases
 - Curso de Git: https://www.udemy.com/git-bash/
 - Curso Git: http://www.desarrolloweb.com/articulos/entiende-instala-configura-git.html
 - Curso Git: https://www.youtube.com/watch?v=NmbqlkLTOSI
-- Portal de cursos virtuales: HTTP://www.librosdigitales.net
-- Recursos de Java: http://gcoronelc.blogspot.pe/p/java.html
-- Repositorio de curso Java: https://github.com/gcoronelc/PECI-Java-MAR-2015
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_001
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_002
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_003
-- Repositorio de curso Java: https://github.com/gcoronelc/SISTUNI_PROG_JAVA_004
-- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_002
-- Repositorio de curso Java: https://github.com/gcoronelc/CEPSUNI_JAVA_OO_001
-- Curso virtual de Java: https://www.edx.org/course/programacion-orientada-objetos-mexicox-upevipn02x
-- Java Frameworks: https://www.facebook.com/groups/javaframeworks/
-- Universidad Java: https://www.facebook.com/groups/universidadjava/
-- Proyectos y Procesos: https://www.facebook.com/groups/ProyectosProcesos/
-- Recursos de Programación: https://coderanch.com/
-- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2015/03/java-8-loop-through-array.html
-- Recorrido de un arreglo: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-un-arreglo_19.html
-- Recorrido de una lista: http://gcoronelc.blogspot.pe/2016/12/java-recorrido-de-una-lista.html
-- Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
-- Código fuente: https://goo.gl/GRaOQg
+- Práctica de Oracle SQL: http://gcoronelc.blogspot.pe/2017/11/practica-de-oracle-sql.html
+- Conexión con JDBC: http://gcoronelc.blogspot.pe/2017/11/jdbc-conexion-con-bases-de-datos.html
+- Manejo de ResultSet: http://gcoronelc.blogspot.pe/2015/01/java-jdbc-resultset-to-list.html
+- Consultas Básicas: http://gcoronelc.blogspot.pe/2014/11/oracle-sql-consultas-basicas.html
+- Introducción a SQL: http://gcoronelc.blogspot.pe/2014/11/oracle-sql-introduccion.html
+- Creación del esquema EUREKA: http://gcoronelc.blogspot.pe/2014/11/creacion-del-esquema-eureka.html
+- Cursores con JDBC: http://gcoronelc.blogspot.pe/2014/05/java-jdbc-oracle-cursor.html
+
+
+# APLICACIONES 
+
+- Eureka App: http://gcoronelc.blogspot.pe/2016/10/eureka-cs-oracle-jdbc.html
+- Eureka Web: http://gcoronelc.blogspot.pe/2016/12/eureka-web-oracle-jdbc.html
+
+# VIDEOS
+
+- Instalación de Oracle XE 11g: https://www.youtube.com/watch?v=4Kt4fpwSNtY
+- Crear esquema EUREKA: https://www.youtube.com/watch?v=qOW90RXepUs
+- Seminario Cliente-Servidor 1: https://www.youtube.com/watch?v=GYElIVDR4Dk
+- Seminario Cliente-Servidor 2: https://www.youtube.com/watch?v=wB2wfk3YuxY
+- Seminario Cliente-Servidor 3: https://www.youtube.com/watch?v=cegT3-X1oa8
 
 
 
