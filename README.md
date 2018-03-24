@@ -1,6 +1,6 @@
 ![ADMINISTRACION DE BD ORACLE](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/ora-adm-001.jpg)
 
-![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql2.png)
+![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql2.jpg)
 
 ![PROGRAMACIÓN PL-SQL](https://raw.githubusercontent.com/gcoronelc/SISTUNI-ORACLE-ADM-001/master/Img/plsql.png)
 
